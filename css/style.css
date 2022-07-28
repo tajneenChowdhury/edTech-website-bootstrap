@@ -1,3 +1,9 @@
 .section-top-margin{
     margin-top: 65px;
 }
+.edu-fpy{
+    padding: 65px 0;
+}
+.brightness{
+    filter: brightness(50%);
+}
